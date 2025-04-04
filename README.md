@@ -1,2 +1,2 @@
 # Teoria-das-Filas
-Macros desenvolvidas no LibreOffice para resolução de problemas de filas
+Programas que utilizam macros desenvolvidas no LibreOffice para resolução de problemas de filas
